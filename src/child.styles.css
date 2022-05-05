@@ -1,0 +1,13 @@
+.select-input {
+  padding: 5px 20px;
+  border-style: none;
+  background-color: cornflowerblue;
+  border-radius: 5px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  outline: 0.2rem solid blueviolet;
+}
+
+.select-option {
+  background-color: aliceblue;
+}
